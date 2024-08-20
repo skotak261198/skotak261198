@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Shamit Kotak! 👋
 
-<!--
-**skotak261198/skotak261198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about turning data into actionable insights that drive business growth and innovation. With a strong technical foundation in Python, SQL, Excel, and data visualization tools like Power BI and Tableau, I combine analytical expertise with strategic thinking to solve complex problems and optimize processes.
 
-Here are some ideas to get you started:
+## About Me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Shamit Kotak, a data-driven professional currently pursuing a Master of Science in Information Systems at the University of Maryland, Robert H. Smith School of Business. I hold a Bachelor of Engineering in Electronics and Telecommunications from KJ Somaiya Institute of Engineering and Information Technology in Mumbai, India.
+
+My professional journey began as a Data Engineering Analyst at Accenture in Mumbai, where I honed my skills in data processing, ETL frameworks, and workflow automation. At the University of Maryland, I have contributed as a Research Assistant in the TTAPS Initiative, where I lead a team to evaluate the impact of Large Language Models (LLMs) across various sectors, including healthcare, hospitality, and education. Furthermore, I'm even serving as a Graduate Assistant at the Office of Faculty Affairs and at the NextGen PM committee as a Project Coordinator to manage several events across the University to support faculty development. I assist in administrative tasks such as craeting events, workshops and other faculty related events. I ensure that deadlines are met while maintaining clear and proactive communication with stakeholders across campus.
+
+Throughout my career, I have consistently delivered solutions that enhance efficiency, reduce errors, and provide valuable insights for stakeholders. I am always eager to explore new challenges and collaborate on projects that push the boundaries of data science and analytics.
+
+## Skills
+
+- **Programming and Scripting:** Python, R, SQL, Unix Script
+- **Data Management and Warehousing:** Amazon S3, PostgreSQL, Oracle, Amazon Redshift, HDFS, Impala, Spark SQL, Pig, Hive
+- **Data Integration and ETL Tools:** Informatica Power Center, IBM Infosphere DataStage
+- **Data Visualization and Analysis:** Tableau, Power BI, RStudio, Matplotlib, Seaborn, Pandas, NumPy
+- **Workflow and Collaboration:** GitLab, Control-M, JIRA, Postman, Salesforce
+- **Office Tools:** Microsoft Office Suite (Excel, PowerPoint, Outlook, Word)
+
+## Let's Connect!
+
+Feel free to explore my repositories and connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/shamit-kotak)
+- Email: [skotak26@umd.edu](mailto:skotak26@umd.edu) | [shamitkotak125@gmail.com](mailto:shamitkotak125@gmail.com)
+
+I'm always open to collaboration opportunities, or just to chat about tech, data, and new ideas. 😊
